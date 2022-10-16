@@ -1,0 +1,9 @@
+<div>
+    {{title |uppercase}}
+    <!-- {{today|date}} -->
+    {{today|date:'MMMM'|uppercase}}
+    <br>
+    {{user.id}}
+    {{user.salary|currency:'EURO'}}
+    {{user.name | custompipes: user.name}}
+</div>

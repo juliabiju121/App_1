@@ -1,0 +1,11 @@
+*{
+    width: 100vh;
+    margin: 10px;
+    margin-left: 35px;
+    display: flex;
+    align-content: space-between;
+    flex-direction: row;
+    /* background-color: black; */
+    background-image: url('https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg.freepik.com%2Ffree-vector%2Fwinter-blue-pink-gradient-background-vector_53876-117276.jpg%3Fw%3D2000&imgrefurl=https%3A%2F%2Fwww.freepik.com%2Ffree-photos-vectors%2Fsmooth-background&tbnid=Jrv2bYk9z7eXXM&vet=10CHoQMyibAWoXChMIsIbeuZvk-gIVAAAAAB0AAAAAEAI..i&docid=hfeHpLBc60ZYSM&w=2000&h=1333&q=background%20images&ved=0CHoQMyibAWoXChMIsIbeuZvk-gIVAAAAAB0AAAAAEAI');
+    background-size: cover;
+}
